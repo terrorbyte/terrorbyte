@@ -1,16 +1,13 @@
-## Hi there 👋
+Vulnerability researcher and reformed penetration tester. Known as poptart most places.
 
-<!--
-**terrorbyte/terrorbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Blog: https://hosakacorp.net/
+Code: https://git.sr.ht/~poptart
+IRC:  poptart @ irc.libera.chat
 
-Here are some ideas to get you started:
+0xAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Other work:
+- https://github.com/cblack-r7
+- https://github.com/HosakaCorp 
+
+0xBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
