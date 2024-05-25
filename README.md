@@ -1,3 +1,4 @@
+```
 Vulnerability researcher and reformed penetration tester. Known as poptart most places.
 
 Blog: https://hosakacorp.net/
@@ -11,3 +12,4 @@ Other work:
 - https://github.com/HosakaCorp 
 
 0xBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+```
